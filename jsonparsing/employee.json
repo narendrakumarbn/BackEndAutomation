@@ -1,0 +1,24 @@
+
+{
+    "company": "ABC Technologies",
+    "employees": [
+        {
+            "name": "Narendra",
+            "age": 24,
+            "designation": "QA Engineer",
+            "department": {
+                "name": "Testing",
+                "technology": "Python Playwright"
+            }
+        },
+        {
+            "name": "Rahul",
+            "age": 26,
+            "designation": "Software Engineer",
+            "department": {
+                "name": "Development",
+                "technology": "Python FastAPI"
+            }
+        }
+    ]
+}
